@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{003B4B04-90E3-BCA8-E315-FAE3440048CD}") = "3dworld", "Assembly-CSharp-firstpass-vs.csproj", "{180229F2-A854-434D-7A72-5AA062AA5B66}"
+EndProject
+Project("{003B4B04-90E3-BCA8-E315-FAE3440048CD}") = "3dworld", "Assembly-CSharp-vs.csproj", "{D1B26A5C-C782-22CA-C205-23069299C3F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{180229F2-A854-434D-7A72-5AA062AA5B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180229F2-A854-434D-7A72-5AA062AA5B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180229F2-A854-434D-7A72-5AA062AA5B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180229F2-A854-434D-7A72-5AA062AA5B66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1B26A5C-C782-22CA-C205-23069299C3F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1B26A5C-C782-22CA-C205-23069299C3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1B26A5C-C782-22CA-C205-23069299C3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1B26A5C-C782-22CA-C205-23069299C3F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
